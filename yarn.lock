@@ -1770,6 +1770,41 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@wowfinder/core-node@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@wowfinder/core-node@workspace:."
+  dependencies:
+    "@eslint/compat": "npm:^1.2.7"
+    "@stylistic/eslint-plugin-js": "npm:^4.2.0"
+    "@tsconfig/recommended": "npm:^1.0.8"
+    "@types/jest": "npm:^29.5.14"
+    "@typescript-eslint/eslint-plugin": "npm:^8.26.1"
+    "@typescript-eslint/parser": "npm:^8.26.1"
+    "@typescript-eslint/utils": "npm:^8.26.1"
+    "@wowfinder/ts-utils": "npm:~0.1.7"
+    eslint: "npm:^9.22.0"
+    eslint-config-prettier: "npm:^10.1.1"
+    eslint-config-standard: "npm:^17.1.0"
+    eslint-plugin-deprecation: "npm:^3.0.0"
+    eslint-plugin-import: "npm:^2.31.0"
+    eslint-plugin-istanbul: "npm:^0.1.2"
+    eslint-plugin-misc: "npm:^3.3.1"
+    eslint-plugin-n: "npm:^17.16.2"
+    eslint-plugin-node: "npm:^11.1.0"
+    eslint-plugin-prettier: "npm:^5.2.3"
+    eslint-plugin-promise: "npm:^7.2.1"
+    globals: "npm:^16.0.0"
+    jest: "npm:^29.7.0"
+    npm-run-all: "npm:^4.1.5"
+    prettier: "npm:^3.5.3"
+    rimraf: "npm:^6.0.1"
+    skott: "npm:^0.35.4"
+    ts-jest: "npm:^29.2.6"
+    tsd: "npm:^0.31.2"
+    typescript: "npm:^5.8.2"
+  languageName: unknown
+  linkType: soft
+
 "@wowfinder/ts-utils@npm:~0.1.7":
   version: 0.1.7
   resolution: "@wowfinder/ts-utils@npm:0.1.7"
@@ -6313,41 +6348,6 @@ __metadata:
   checksum: 10c0/fb32a206276d608037fa1bcd7e9921e177fe992fc610d098aa3128baca3c0050fc1e014fa007e9b3874cf865ddb4f5bd9f43ccb7cbbbe4efaff6a83e920b17e9
   languageName: node
   linkType: hard
-
-"node-core@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "node-core@workspace:."
-  dependencies:
-    "@eslint/compat": "npm:^1.2.7"
-    "@stylistic/eslint-plugin-js": "npm:^4.2.0"
-    "@tsconfig/recommended": "npm:^1.0.8"
-    "@types/jest": "npm:^29.5.14"
-    "@typescript-eslint/eslint-plugin": "npm:^8.26.1"
-    "@typescript-eslint/parser": "npm:^8.26.1"
-    "@typescript-eslint/utils": "npm:^8.26.1"
-    "@wowfinder/ts-utils": "npm:~0.1.7"
-    eslint: "npm:^9.22.0"
-    eslint-config-prettier: "npm:^10.1.1"
-    eslint-config-standard: "npm:^17.1.0"
-    eslint-plugin-deprecation: "npm:^3.0.0"
-    eslint-plugin-import: "npm:^2.31.0"
-    eslint-plugin-istanbul: "npm:^0.1.2"
-    eslint-plugin-misc: "npm:^3.3.1"
-    eslint-plugin-n: "npm:^17.16.2"
-    eslint-plugin-node: "npm:^11.1.0"
-    eslint-plugin-prettier: "npm:^5.2.3"
-    eslint-plugin-promise: "npm:^7.2.1"
-    globals: "npm:^16.0.0"
-    jest: "npm:^29.7.0"
-    npm-run-all: "npm:^4.1.5"
-    prettier: "npm:^3.5.3"
-    rimraf: "npm:^6.0.1"
-    skott: "npm:^0.35.4"
-    ts-jest: "npm:^29.2.6"
-    tsd: "npm:^0.31.2"
-    typescript: "npm:^5.8.2"
-  languageName: unknown
-  linkType: soft
 
 "node-gyp@npm:latest":
   version: 10.0.1
