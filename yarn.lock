@@ -536,15 +536,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/compat@npm:^1.2.8":
-  version: 1.2.8
-  resolution: "@eslint/compat@npm:1.2.8"
+"@eslint/compat@npm:^1.2.9":
+  version: 1.2.9
+  resolution: "@eslint/compat@npm:1.2.9"
   peerDependencies:
     eslint: ^9.10.0
   peerDependenciesMeta:
     eslint:
       optional: true
-  checksum: 10c0/1e004c6917220ff1731fdc562ada9ddcbcecc6f3ba2e4b0433fb6d8eddf2a443e009f1f9796b78128b78a0a588c723b78021319055ac6e5dda55c0ace346496b
+  checksum: 10c0/e912058f1e3847a1eec654c0c040467b676bd48171e915c730c7215f57cf5f4db8508c4a431ccb470f4a000d94559b41c4fe8de3d71f23eb8ae7acf4959e1c06
   languageName: node
   linkType: hard
 
@@ -1774,14 +1774,14 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@wowfinder/core-node@workspace:."
   dependencies:
-    "@eslint/compat": "npm:^1.2.8"
+    "@eslint/compat": "npm:^1.2.9"
     "@stylistic/eslint-plugin-js": "npm:^4.2.0"
     "@tsconfig/recommended": "npm:^1.0.8"
     "@types/jest": "npm:^29.5.14"
     "@typescript-eslint/eslint-plugin": "npm:^8.31.1"
     "@typescript-eslint/parser": "npm:^8.31.1"
     "@typescript-eslint/utils": "npm:^8.31.1"
-    "@wowfinder/ts-utils": "npm:^0.1.13"
+    "@wowfinder/ts-utils": "npm:^0.1.14"
     eslint: "npm:^9.25.1"
     eslint-config-prettier: "npm:^10.1.2"
     eslint-config-standard: "npm:^17.1.0"
@@ -1805,12 +1805,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@wowfinder/ts-utils@npm:^0.1.13":
-  version: 0.1.13
-  resolution: "@wowfinder/ts-utils@npm:0.1.13"
+"@wowfinder/ts-utils@npm:^0.1.14":
+  version: 0.1.14
+  resolution: "@wowfinder/ts-utils@npm:0.1.14"
   dependencies:
     globals: "npm:^16.0.0"
-  checksum: 10c0/94d2c11dda50dcf235f4853b614c2a8bf79b04111b61a78aa70d075a828d573471aca01161a852846580f7f769d424f44e09ccb5eed8b576664df93173056987
+  checksum: 10c0/44e1c722e3a73c3e216cd74c87d1cfd282294493857e8f966eafae6165a46202cf0b25eed7873d40a93c3fa50143e54ca343e255e222046eef016ab9e022d82e
   languageName: node
   linkType: hard
 

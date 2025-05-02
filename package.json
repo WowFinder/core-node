@@ -1,7 +1,7 @@
 {
     "name": "@wowfinder/core-node",
     "type": "commonjs",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Server-side or main-process utilitties for node-based applications (web, electron, cordova)",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -33,11 +33,11 @@
         "prepare": "yarn build"
     },
     "dependencies": {
-        "@wowfinder/ts-utils": "^0.1.13",
+        "@wowfinder/ts-utils": "^0.1.14",
         "globals": "^16.0.0"
     },
     "devDependencies": {
-        "@eslint/compat": "^1.2.8",
+        "@eslint/compat": "^1.2.9",
         "@stylistic/eslint-plugin-js": "^4.2.0",
         "@tsconfig/recommended": "^1.0.8",
         "@types/jest": "^29.5.14",
